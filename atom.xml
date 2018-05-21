@@ -1,47 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>柳旭雷</title>
   
-  
+  <subtitle>「Stay hungry. Stay foolish.」</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-21T12:47:13.040Z</updated>
+  <updated>2018-05-21T06:45:16.280Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Ray_L_Pain</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>我的第一个文章</title>
-    <link href="http://yoursite.com/2018/05/21/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2018/05/21/我的第一个文章/</id>
-    <published>2018-05-21T07:28:49.000Z</published>
-    <updated>2018-05-21T12:47:13.040Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="恭喜RNG"><a href="#恭喜RNG" class="headerlink" title="恭喜RNG"></a>恭喜RNG</h1><h2 id="恭喜RNG-1"><a href="#恭喜RNG-1" class="headerlink" title="恭喜RNG"></a>恭喜RNG</h2><h3 id="恭喜RNG-2"><a href="#恭喜RNG-2" class="headerlink" title="恭喜RNG"></a>恭喜RNG</h3><h4 id="恭喜RNG-3"><a href="#恭喜RNG-3" class="headerlink" title="恭喜RNG"></a>恭喜RNG</h4><h5 id="恭喜RNG-4"><a href="#恭喜RNG-4" class="headerlink" title="恭喜RNG"></a>恭喜RNG</h5><h6 id="恭喜RNG-5"><a href="#恭喜RNG-5" class="headerlink" title="恭喜RNG"></a>恭喜RNG</h6><ul><li><strong>Uzi</strong></li><li><em>世界第一</em></li><li><del>ADC</del></li><li><code>不接受反驳</code></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;恭喜RNG&quot;&gt;&lt;a href=&quot;#恭喜RNG&quot; class=&quot;headerlink&quot; title=&quot;恭喜RNG&quot;&gt;&lt;/a&gt;恭喜RNG&lt;/h1&gt;&lt;h2 id=&quot;恭喜RNG-1&quot;&gt;&lt;a href=&quot;#恭喜RNG-1&quot; class=&quot;headerlink&quot; title=
-      
-    
-    </summary>
-    
-      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
-    
-    
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
